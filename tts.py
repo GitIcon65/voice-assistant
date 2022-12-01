@@ -9,7 +9,7 @@ speaker = 'baya' # aidar, baya, kseniya, xenia, random
 put_accent = True
 put_yo = True
 device = torch.device('cpu') # cpu or gpu
-text = "Хауди Хо, друзья!!!"
+text = "Welcome to thw Hell"
 
 model, _ = torch.hub.load(repo_or_dir='snakers4/silero-models',
                           model='silero_tts',
