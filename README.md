@@ -1,4 +1,4 @@
 # voice-assistant
 
 Model download
-https://alphacephei.com/vosk/model
+https://alphacephei.com/vosk/models
